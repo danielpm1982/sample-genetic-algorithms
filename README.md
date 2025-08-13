@@ -15,6 +15,8 @@ You can also run this Jupiter Notebook project remotely at [https://colab.resear
 
 [**Printscreen samples**]<br>
 
+![ga-solution.png](./ga-solution.png)
+
 [**Support**]<br>
 If you have any suggestion or correction about the content of this repository, please, feel free to open an issue at the project issues' section:<br>
 https://github.com/danielpm1982/sample-genetic-algorithms/issues
