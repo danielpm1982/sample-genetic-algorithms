@@ -7,7 +7,34 @@ This is a Jupyter Notebook series collection about Genetic Algorithms (GA) | Evo
 [**Description of this repository**]<br>
 This is a Jupyter Notebook series collection about Genetic Algorithms (GA) | Evolutionary Computation using Python, Pandas, NumPy and Matplotlib, and GA specific libs, along with Anaconda managed environments.
 
-[**Content and Run**]<br>
+[**Content**]<br>
+GitHub jupyter notebook | Colab dynamic code import and run:
+
+1 - Linear programming using pulp lib - animal feed ration problem<br>
+GitHub:<br>
+https://github.com/danielpm1982/sample-genetic-algorithms/blob/master/ration-problem-lp-pulp.ipynb <br>
+Colab:<br>
+https://colab.research.google.com/github/danielpm1982/sample-genetic-algorithms/blob/master/ration-problem-lp-pulp.ipynb <br>
+
+2 - Linear programming using cvxpy lib - animal feed ration problem<br>
+GitHub:<br>
+https://github.com/danielpm1982/sample-genetic-algorithms/blob/master/ration-problem-lp-cvxpy.ipynb<br>
+Colab:<br>
+https://colab.research.google.com/github/danielpm1982/sample-genetic-algorithms/blob/master/ration-problem-lp-cvxpy.ipynb<br>
+
+3 - Linear programming using pulp lib - knapsack problem<br>
+GitHub:<br>
+https://github.com/danielpm1982/sample-genetic-algorithms/blob/master/knapsack-problem-lp-pulp.ipynb<br>
+Colab:<br>
+https://colab.research.google.com/github/danielpm1982/sample-genetic-algorithms/blob/master/knapsack-problem-lp-pulp.ipynb<br>
+
+4 - Genetic Algorithms using pygad lib - knapsack problem<br>
+GitHub:<br>
+https://github.com/danielpm1982/sample-genetic-algorithms/blob/master/knapsack-problem-ga-pygad.ipynb<br>
+Colab:<br>
+https://colab.research.google.com/github/danielpm1982/sample-genetic-algorithms/blob/master/knapsack-problem-ga-pygad.ipynb<br>
+
+[**Source Code and Run**]<br>
 Source code available at github.com, through the following link:<br>
 [https://github.com/danielpm1982/sample-genetic-algorithms](https://github.com/danielpm1982/sample-genetic-algorithms) <br>
 The source code includes the Jupyter Notebook .ipynb files themselves, one for each subproject, as well as the environment.yml file, which can be used to generate an Anaconda environment for running this project (and subprojects) locally (don't forget to customize the env paths to your own filesystem and OS when creating the environment).<br>

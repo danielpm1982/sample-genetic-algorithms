@@ -1,0 +1,12 @@
+name: /home/daniel/anaconda-workspace/sample-genetic-algorithms/env
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - python
+prefix: /home/daniel/anaconda-workspace/sample-genetic-algorithms/env
